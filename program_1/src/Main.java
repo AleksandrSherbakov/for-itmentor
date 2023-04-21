@@ -30,8 +30,7 @@ public class Main {
 
         }
         return Integer.toString(result);
-
-        //throw new Exception("throws Exception");
+        
     }
     public static void main(String[] args) throws Exception{
 
